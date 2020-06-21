@@ -1,4 +1,4 @@
-package com.meetkiki.jvm.class03;
+package com.meetkiki.jvm.lesson03;
 
 
 

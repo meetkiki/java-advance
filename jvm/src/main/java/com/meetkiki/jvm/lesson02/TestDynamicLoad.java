@@ -1,4 +1,4 @@
-package com.meetkiki.jvm.class02;
+package com.meetkiki.jvm.lesson02;
 
 public class TestDynamicLoad {
 

@@ -1,4 +1,4 @@
-package com.meetkiki.jvm.class01;
+package com.meetkiki.jvm.lesson01;
 
 import java.io.FileInputStream;
 import java.lang.reflect.Method;
